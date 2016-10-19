@@ -13,7 +13,6 @@ if (APPLE_QUANTITY < 5){
 // 2. Write a "for" loop
 for(i = 0; i < APPLE_QUANTITY; i ++){
   console.log("WEEEEEEE! I'm looping!")
-  //so you're this happy when you looping? XD
 }
 
 // 3. Write a function
