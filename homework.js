@@ -2,6 +2,7 @@
 
 // 1. Write an if/else statement
 //balqis
+//orchid
 var APPLE_QUANTITY = 5;
 
 //checking the quantity of apple(s)
