@@ -1,6 +1,7 @@
 // Mary Rose's JavaScript Homework
 
 // 1. Write an if/else statement
+//balqis
 var APPLE_QUANTITY = 5;
 
 //checking the quantity of apple(s)
@@ -13,7 +14,6 @@ if (APPLE_QUANTITY < 5){
 // 2. Write a "for" loop
 for(i = 0; i < APPLE_QUANTITY; i ++){
   console.log("WEEEEEEE! I'm looping!")
-  //so you're this happy when you looping? XD
 }
 
 // 3. Write a function
@@ -21,7 +21,6 @@ var sayHello = function(){
   console.log("Hello!")
 }
 
-//what is a codeNinja? a ninja in coding or something else? :v
 // 4. Create an object
 var mary = {
   name: "Mary Rose",
