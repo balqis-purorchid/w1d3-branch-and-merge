@@ -3,6 +3,7 @@
 // 1. Write an if/else statement
 //balqis
 // Febyana
+
 var APPLE_QUANTITY = 5;
 
 //checking the quantity of apple(s)
